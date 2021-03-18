@@ -1,7 +1,17 @@
 # WebSite-Maksla
 ![Maksla-](https://user-images.githubusercontent.com/65566730/111658586-287e7900-8815-11eb-991a-1344e44c84b0.gif)
-> Посилання ``` сайту ``` :
+> Shared ``` link ``` :
 - https://darijc.github.io/WebSite-Maksla/
+
+## 🚀 Usage
+
+Make sure you have [SplitText](https://codepen.io/GreenSock/full/OPqpRJ/) installed (`SplitText` is shipped by default since splittext `3.0`)
+
+Just run the following command at the root of project :
+
+```sh
+gsap
+```
 
 ## Author
 
