@@ -3,3 +3,10 @@
 > Посилання ``` сайту ``` :
 - https://darijc.github.io/WebSite-Maksla/
 
+## Author
+
+👤 **Дарій Гиряк**
+
+- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
+- Github: [@Darijc](https://github.com/Darijc)
+
