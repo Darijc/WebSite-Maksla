@@ -7,6 +7,7 @@
 
 👤 **Дарій Гиряк**
 
-- Twitter: [@darihyr](https://www.instagram.com/darihyr)
+- Instagram: [@darihyr](https://www.instagram.com/darihyr)
+- Telegram:[@darihyr](https://www.instagram.com/darihyr)
 - Github: [@Darijc](https://github.com/Darijc)
 
