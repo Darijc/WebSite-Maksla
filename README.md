@@ -7,6 +7,6 @@
 
 👤 **Дарій Гиряк**
 
-- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
+- Twitter: [@darihyr](https://www.instagram.com/darihyr)
 - Github: [@Darijc](https://github.com/Darijc)
 
