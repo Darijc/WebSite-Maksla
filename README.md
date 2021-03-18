@@ -7,10 +7,10 @@
 
 Make sure you have [SplitText](https://codepen.io/GreenSock/full/OPqpRJ/) installed (`SplitText` is shipped by default since splittext `3.0`)
 
-Just run the following command at the root of project :
+The project is built on use :
 
 ```sh
-gsap
+gsap-scrolltrigger-with-parallax-snap-and-scrolltoplugin
 ```
 
 ## Author
