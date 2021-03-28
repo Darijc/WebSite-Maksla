@@ -1,7 +1,7 @@
 # WebSite-Maksla
 ![Maksla-](https://user-images.githubusercontent.com/65566730/111658586-287e7900-8815-11eb-991a-1344e44c84b0.gif)
 > Shared ``` link ``` :
-- https://darijc.github.io/WebSite-Maksla/
+## [Demo](https://darijc.github.io/WebSite-Maksla/)
 
 ## 🚀 Usage
 
